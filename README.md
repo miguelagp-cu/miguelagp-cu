@@ -21,8 +21,8 @@ Hola, soy un programador con una gran pasión por aprender y desarrollar softwar
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=miguelagp-cu&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<!-- ### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/> -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=miguelagp-cu&icon=0&color=1)](https://visitcount.itsvg.in)
