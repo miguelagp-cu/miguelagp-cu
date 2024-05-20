@@ -25,6 +25,6 @@ Hola, soy un programador con una gran pasión por aprender y desarrollar softwar
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=miguelagp-cu&icon=0&color=1)](https://visitcount.itsvg.in)
+[//] [![](https://visitcount.itsvg.in/api?id=miguelagp-cu&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
